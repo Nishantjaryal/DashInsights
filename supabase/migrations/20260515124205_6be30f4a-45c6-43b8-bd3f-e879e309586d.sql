@@ -1,0 +1,1 @@
+drop policy "Authenticated users can insert insights" on public.insights;
